@@ -16,13 +16,6 @@ TThe following **required** functionality is completed:
   - [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='TweetWalkthrough.giff' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
